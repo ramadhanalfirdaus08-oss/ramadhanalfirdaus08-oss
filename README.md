@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm RafzMD 👋
 
-<!--
-**ramadhanalfirdaus08-oss/ramadhanalfirdaus08-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student Developer & Linux Enthusiast from Indonesia.
 
-Here are some ideas to get you started:
+Building things, breaking things, and learning how they work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 💻 Currently learning web development & software engineering
+- 🐧 Exploring Linux and the command line
+- 📚 Learning out loud through small projects and experiments
+
+### Connect with me
+- 🌐 Portfolio: [rafzmd-portofolio-have.netlify.app](https://rafzmd-portofolio-have.netlify.app)
+- 📸 Instagram: [@rrafzz7](https://www.instagram.com/rrafzz7)
+- 🎵 TikTok: [@rafzmd_have_](https://tiktok.com/@rafzmd_have_)
+- ✈️ Telegram: [RafzMD_Prime](https://t.me/RafzMD_Prime)
+
+---
+
+Thanks for stopping by!
