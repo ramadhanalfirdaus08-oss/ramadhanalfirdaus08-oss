@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/rrafzz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://tiktok.com/@rafzmd_have_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="tiktok" height="30" width="40" /></a>
 <a href="https://t.me/RafzMD_Prime" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" height="30" width="40" /></a>
-<a href="https://wa.me/62XXXXXXXXXX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+<a href="https://wa.me/6288210073367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
